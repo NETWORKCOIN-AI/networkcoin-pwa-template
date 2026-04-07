@@ -1,0 +1,15 @@
+This is a Progressive Web App template built with Vite, React 18, TypeScript, and Tailwind CSS.
+
+Key features:
+- Service worker with Workbox for offline support and caching
+- Install prompt hook for Add to Home Screen functionality
+- Online status detection hook
+- Tailwind CSS with dark mode support and custom animations
+- Path aliases via @/* mapping to src/*
+
+When extending this template:
+- Place pages/routes in src/pages/
+- Place reusable components in src/components/
+- Place shared utilities in src/lib/
+- Place custom hooks in src/hooks/
+- Add PWA icons to public/icons/ (192x192 and 512x512 PNG)
